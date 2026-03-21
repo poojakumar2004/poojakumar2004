@@ -15,22 +15,14 @@ I am highly motivated to contribute to real-world projects, enhance my technical
 SKILLS:
 
       Languages: Java, Python, c++
-      
       Frontend: HTML, CSS, Javascript
-      
       Backend: Node.js, JDBC, PHP, React
-      
       Databases: MySQL, MongoDB
-      
       Cloud & Tools: Git, Github, VS Code, Android Studio
-      
       Core Skills: Application Development, API, Integration, Problem-
       Solving, Debugging
-      
       Core Concept: OOPS, System Design, Software Engineering
-      
       Language known: Tamilo, English and Hindi
-      
       Certificates: Python, Hindi, Typewritting, C, C++, MongoDB, Skill-A-Thon
       
 
