@@ -28,4 +28,4 @@ SKILLS:
 
 ✍️ Quote of the Day
 
-"River Never Go Reverse So Try To Live Like A River."
+![WhatsApp Image 2026-03-21 at 14 32 31](https://github.com/user-attachments/assets/f62ec7ec-a69b-4129-9505-0f0b24a7ecd0)
