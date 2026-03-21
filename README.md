@@ -1,6 +1,6 @@
 ## 💬 PoojaKumar 
 💫About Me
-
+ 
 I am an MCA student with a strong foundation in software development and a keen interest in building efficient, scalable, and user-centric applications. I have hands-on experience working with technologies such as Java, Python, and modern web frameworks, along with a solid understanding of data structures, object-oriented programming, and database management systems.
 
 I am proficient in developing both frontend and backend components, integrating RESTful APIs, and working with databases like MySQL and MongoDB. My approach to development emphasizes clean code, problem-solving, and continuous learning through practical implementation.
