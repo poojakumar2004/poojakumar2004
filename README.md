@@ -8,10 +8,11 @@ I am proficient in developing both frontend and backend components, integrating 
 I am highly motivated to contribute to real-world projects, enhance my technical expertise, and grow as a software developer in a dynamic and challenging environment.
 
 🌐Socials:
-
+https://www.linkedin.com/in/p
+ooja-kumar-ba7b263aa/ 
+https://leetcode.com/u/PoojaKumar2004/
 
 💻Tech Stack:
-
 SKILLS:
 
       Languages: Java, Python, c++
