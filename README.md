@@ -34,7 +34,13 @@ I am eager to contribute to impactful projects, grow as a developer, and work in
 
 **Languages Known:** Tamil, English, Hindi
 
-**Certifications:** Python, C, C++, MongoDB, Skill-A-Thon, Typewriting, Hindi      
+**Certifications:** Python, C, C++, MongoDB, Skill-A-Thon, Typewriting, Hindi  
+
+## Projects
+
+https://github.com/poojakumar2004/Smart-Lead-Dashboard
+https://github.com/poojakumar2004/Fake-News-Detection
+
 
 ## ✍️ Quote of the Day
 
