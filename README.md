@@ -1,34 +1,41 @@
-## 💬 PoojaKumar 
-💫About Me
- 
-I am an MCA student with a strong foundation in software development and a keen interest in building efficient, scalable, and user-centric applications. I have hands-on experience working with technologies such as Java, Python, and modern web frameworks, along with a solid understanding of data structures, object-oriented programming, and database management systems.
+## PoojaKumar 
+## 💫 About Me
 
-I am proficient in developing both frontend and backend components, integrating RESTful APIs, and working with databases like MySQL and MongoDB. My approach to development emphasizes clean code, problem-solving, and continuous learning through practical implementation.
+I am an MCA student with a strong passion for software development and building scalable, efficient, and user-focused applications. I enjoy transforming ideas into real-world solutions using clean and structured code.
 
-I am highly motivated to contribute to real-world projects, enhance my technical expertise, and grow as a software developer in a dynamic and challenging environment.
+I have hands-on experience in full-stack development, working with technologies like Java, Python, and modern web frameworks. I am comfortable building both frontend and backend systems, integrating RESTful APIs, and managing databases such as MySQL and MongoDB.
 
-🌐Socials:
+My core strengths include problem-solving, object-oriented programming, debugging, and software design principles. I continuously strive to improve my skills through practical projects, coding practice, and learning new technologies.
 
-https://www.linkedin.com/in/pooja-kumar-ba7b263aa/ 
+I am eager to contribute to impactful projects, grow as a developer, and work in a dynamic environment where I can learn and build meaningful solutions.
 
-https://leetcode.com/u/PoojaKumar2004/
+---
 
-💻Tech Stack:
+## 🌐 Socials
 
-SKILLS:
+💼 LinkedIn
+[LinkedIn Profile](https://www.linkedin.com/in/pooja-kumar-ba7b263aa/?utm_source=chatgpt.com)
 
-      Languages: Java, Python, c++
-      Frontend: HTML, CSS, Javascript
-      Backend: Node.js, JDBC, PHP, React
-      Databases: MySQL, MongoDB
-      Cloud & Tools: Git, Github, VS Code, Android Studio
-      Core Skills: Application Development, API, Integration, Problem-
-      Solving, Debugging
-      Core Concept: OOPS, System Design, Software Engineering
-      Language known: Tamilo, English and Hindi
-      Certificates: Python, Hindi, Typewritting, C, C++, MongoDB, Skill-A-Thon
-      
+🧠 LeetCode
+[LeetCode Profile](https://leetcode.com/u/PoojaKumar2004/?utm_source=chatgpt.com)
 
-✍️ Quote of the Day
+---
+
+## 💻 Tech Stack
+
+**Languages:** Java, Python, C++
+**Frontend:** HTML, CSS, JavaScript, React
+**Backend:** Node.js, PHP, JDBC
+**Databases:** MySQL, MongoDB
+**Tools & Cloud:** Git, GitHub, VS Code, Android Studio
+
+**Core Skills:** API Integration, Debugging, Application Development, Problem Solving
+**Core Concepts:** OOPs, System Design, Software Engineering
+
+**Languages Known:** Tamil, English, Hindi
+
+**Certifications:** Python, C, C++, MongoDB, Skill-A-Thon, Typewriting, Hindi      
+
+## ✍️ Quote of the Day
 
 ![WhatsApp Image 2026-03-21 at 14 32 31](https://github.com/user-attachments/assets/f62ec7ec-a69b-4129-9505-0f0b24a7ecd0)
