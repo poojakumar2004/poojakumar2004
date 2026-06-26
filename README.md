@@ -42,6 +42,11 @@ https://github.com/poojakumar2004/Smart-Lead-Dashboard
 
 https://github.com/poojakumar2004/Fake-News-Detection
 
+https://github.com/poojakumar2004/Laptop-Price-Prediction
+
+https://github.com/poojakumar2004/Skill-Swap-Hub
+
+https://github.com/poojakumar2004/AI-Driven-Clinical-Trial-Matching-Engine
 
 ## ✍️ Quote of the Day
 
