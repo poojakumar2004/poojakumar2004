@@ -56,21 +56,6 @@ I am eager to contribute to impactful projects, grow as a developer, and work in
 
 [![Intelligent Document Platform](https://img.shields.io/badge/Intelligent_Document_Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/Intelligent-document-platform)
 
-
-https://github.com/poojakumar2004/Smart-Lead-Dashboard
-
-https://github.com/poojakumar2004/Fake-News-Detection
-
-https://github.com/poojakumar2004/Laptop-Price-Prediction
-
-https://github.com/poojakumar2004/Skill-Swap-Hub
-
-https://github.com/poojakumar2004/AI-Driven-Clinical-Trial-Matching-Engine
-
-https://github.com/poojakumar2004/Meeting-Summarizer-git
-
-https://github.com/poojakumar2004/Intelligent-document-platform
-
 ## ✍️ Quote of the Day
 
 ![WhatsApp Image 2026-03-21 at 14 32 31](https://github.com/user-attachments/assets/f62ec7ec-a69b-4129-9505-0f0b24a7ecd0)
