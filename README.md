@@ -50,18 +50,6 @@ I am eager to contribute to impactful projects, grow as a developer, and work in
 [![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 [![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](#)
 
-**Languages:** Java, Python, C++
-**Frontend:** HTML, CSS, JavaScript, React
-**Backend:** Node.js, PHP, JDBC
-**Databases:** MySQL, MongoDB
-**Tools & Cloud:** Git, GitHub, VS Code, Android Studio
-
-**Core Skills:** API Integration, Debugging, Application Development, Problem Solving
-**Core Concepts:** OOPs, System Design, Software Engineering
-
-**Languages Known:** Tamil, English, Hindi
-
-**Certifications:** Python, C, C++, MongoDB, Skill-A-Thon, Typewriting, Hindi  
 
 ## 🔗 Projects
 
