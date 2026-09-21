@@ -40,7 +40,22 @@ I am eager to contribute to impactful projects, grow as a developer, and work in
 
 **Certifications:** Python, C, C++, MongoDB, Skill-A-Thon, Typewriting, Hindi  
 
-## Projects
+## 🔗 Projects
+
+[![Smart Lead Dashboard](https://img.shields.io/badge/Smart_Lead_Dashboard-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/Smart-Lead-Dashboard)
+
+[![Fake News Detection](https://img.shields.io/badge/Fake_News_Detection-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/Fake-News-Detection)
+
+[![Laptop Price Prediction](https://img.shields.io/badge/Laptop_Price_Prediction-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/Laptop-Price-Prediction)
+
+[![Skill Swap Hub](https://img.shields.io/badge/Skill_Swap_Hub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/Skill-Swap-Hub)
+
+[![AI Clinical Trial Matching Engine](https://img.shields.io/badge/AI_Clinical_Trial_Matching-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/AI-Driven-Clinical-Trial-Matching-Engine)
+
+[![Meeting Summarizer](https://img.shields.io/badge/Meeting_Summarizer-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/Meeting-Summarizer-git)
+
+[![Intelligent Document Platform](https://img.shields.io/badge/Intelligent_Document_Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojakumar2004/Intelligent-document-platform)
+
 
 https://github.com/poojakumar2004/Smart-Lead-Dashboard
 
