@@ -14,14 +14,13 @@ I am eager to contribute to impactful projects, grow as a developer, and work in
 ## 🌐 Socials
 
 💼 LinkedIn
-[LinkedIn Profile](https://www.linkedin.com/in/pooja-kumar-ba7b263aa/?utm_source=chatgpt.com)
+[LinkedIn Profile][![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kumar-ba7b263aa/?utm_source=chatgpt.com)
 
 🧠 LeetCode
-[LeetCode Profile](https://leetcode.com/u/PoojaKumar2004/?utm_source=chatgpt.com)
+[LeetCode Profile][![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PoojaKumar2004/?utm_source=chatgpt.com)
 
 🌐 Portfolio
-[https://6a3a002590706.site123.me/]
-https://6a3a002590706.site123.me/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
 
