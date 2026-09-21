@@ -15,7 +15,7 @@ I am eager to contribute to impactful projects, grow as a developer, and work in
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kumar-ba7b263aa/?utm_source=chatgpt.com)
 
-[[![LEETCODE](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PoojaKumar2004/?utm_source=chatgpt.com)
+[![LEETCODE](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PoojaKumar2004/?utm_source=chatgpt.com)
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-00BFAE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://6a3a002590706.site123.me/
 )
